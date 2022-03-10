@@ -1,4 +1,4 @@
-**Voyager** is an arcade style game inspired by Atari's _Tempest_ intended for Android phones. 
+**Voyager** is an arcade style game inspired by Atari's _Tempest_ intended for iOS and Android phones. 
 ## Table of Contents
 * [Features](#features)
 * [Installation Guide](#installation-guide)
